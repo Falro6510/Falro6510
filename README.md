@@ -4,13 +4,16 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=360&height=44&lines=I%20use%20Arch%20btw" alt="Typing headlines" />
+</p>
 
 ### 🚀 About Me
-🐧 &nbsp;Daily software **I use Arch btw**
+
 🔭 &nbsp;I'm currently working on **Alloy Linux - my own Linux distro**  
 🌱 &nbsp;I'm currently learning **javascript**  
 😄 &nbsp;Pronouns: **he/him**  
-⚡ &nbsp;Fun fact: **like coffee**
+⚡ &nbsp;Fun fact: **I use Arch btw**
 
 ### 🛠️ Tech Stack
 
