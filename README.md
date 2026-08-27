@@ -6,7 +6,7 @@
 
 
 ### 🚀 About Me
-🔭 &nbsp;Daily software **I use Arch btw**
+🐧 &nbsp;Daily software **I use Arch btw**
 🔭 &nbsp;I'm currently working on **Alloy Linux - my own Linux distro**  
 🌱 &nbsp;I'm currently learning **javascript**  
 😄 &nbsp;Pronouns: **he/him**  
